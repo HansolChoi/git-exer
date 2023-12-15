@@ -4,5 +4,5 @@ Country와 함께하는git 교실
 - pull 테스트
 
 
-- fast-forward exer
+- fast-forward exer / conflict test
 - 3-way other
