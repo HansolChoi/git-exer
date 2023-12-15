@@ -5,3 +5,4 @@ Country와 함께하는git 교실
 
 
 - fast-forward exer
+- 3-way other
